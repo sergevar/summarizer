@@ -4,6 +4,8 @@ This repository contains the code from this video:
 
 [Build a Summarizer and Q&A with ChatGPT/GPT-3 APIs - Point AI series](https://youtu.be/OgSpLwTVyHQ)
 
+Questions/suggestions? Come ask me in our Telegram group: https://t.me/pointnetworkchat
+
 # Install
 
 ```
