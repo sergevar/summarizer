@@ -1,5 +1,8 @@
 import sys
+import os
 from common import inference, download, get_text_from_html, download_and_extract_text_from_pdf, tokenize_gpt2, detokenize_gpt2, split_text
+
+os.environ['TOKENIZERS_PARALLELISM'] = "False"
 
 MAX_TOKENS = 4000
 MAX_NEW_TOKENS = 500
