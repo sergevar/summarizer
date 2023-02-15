@@ -1,0 +1,5 @@
+openai
+python-dotenv
+pdfminer
+pdfminer.six
+bs4
